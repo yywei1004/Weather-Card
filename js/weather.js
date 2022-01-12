@@ -203,4 +203,5 @@ fetch(url)
                 containerElement.innerHTML = cards
             })
         })
+        document.querySelector('#start').click();
     });

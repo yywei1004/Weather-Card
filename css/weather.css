@@ -29,10 +29,11 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("../img/Tranquil\ @\ Sun\ Moon\ Lake\ 日月潭.jpg");
+    background:linear-gradient(to bottom, lightblue 0%, cornflowerblue 100%);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    color: cornflowerblue;
 }
 
 .sunny {
